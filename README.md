@@ -1,4 +1,4 @@
-# n8n-heroku
+# n8n-heroku new
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/n8n-io/n8n-heroku/tree/main)
 
